@@ -1,4 +1,5 @@
 /*
+/*percobaan fahmi yang ke2 kalinya,berhasilkah?? */;
 SQLyog Community Edition- MySQL GUI v5.23
 Host - 5.0.51b-community-nt : Database - inventori_fahmi
 *********************************************************************
